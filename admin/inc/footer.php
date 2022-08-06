@@ -61,7 +61,7 @@
         </strong>
         All rights reserved.
         <div class="float-right d-none d-sm-inline-block">
-          <b><?php echo $_settings->info('short_name') ?> (by: <a href="mailto:codewithsudeep@gmail.com" target="blank">CodeWithSudeep</a> )</b> v1.0
+          <b><?php echo $_settings->info('short_name') ?> (by: <a href="mailto:jenishadal7@gmail.com" target="blank">Jenisha Dahal</a> )</b> v1.0
         </div>
       </footer>
     </div>
